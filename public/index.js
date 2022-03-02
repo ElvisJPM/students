@@ -159,30 +159,30 @@ var students = [
         age: 21,
         career: "IDYGS"
     },
-    // {
-    //     lname: "MORALES SOSA",
-    //     name: "DAVID ALEJANDRO",
-    //     age: 21,
-    //     career: "IDYGS"
-    // },
-    // {
-    //     lname: "MORALES SOSA",
-    //     name: "DAVID ALEJANDRO",
-    //     age: 21,
-    //     career: "IDYGS"
-    // },
-    // {
-    //     lname: "MORALES SOSA",
-    //     name: "DAVID ALEJANDRO",
-    //     age: 21,
-    //     career: "IDYGS"
-    // },
-    // {
-    //     lname: "MORALES SOSA",
-    //     name: "DAVID ALEJANDRO",
-    //     age: 21,
-    //     career: "IDYGS"
-    // },
+    {
+        lname: "RESENDIZ GARCIA",
+        name: "HOMERO FRANCISCO",
+        age: 21,
+        career: "IDYGS"
+    },
+    {
+        lname: "REYES UGALDE",
+        name: "CELSO ALBERTO",
+        age: 21,
+        career: "IDYGS"
+    },
+    {
+        lname: "MORALES SOSA",
+        name: "DAVID ALEJANDRO",
+        age: 21,
+        career: "IDYGS"
+    },
+    {
+        lname: "SALAZAR ZUMAYA",
+        name: "EDGAR ULISES",
+        age: 21,
+        career: "IDYGS"
+    },
     // {
     //     lname: "MORALES SOSA",
     //     name: "DAVID ALEJANDRO",
